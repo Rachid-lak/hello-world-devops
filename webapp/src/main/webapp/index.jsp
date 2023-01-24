@@ -89,11 +89,7 @@
       margin-top: 20px;
       border-radius: 5px; 
       border: none;
-      background: #26a9e0; 
-      text-decoration: none;
-      font-size: 15px;
-      font-weight: 400;
-      color: #fff;
+      color: rgb(69, 181, 58);
       }
       .btn-item {
       display: inline-block;
