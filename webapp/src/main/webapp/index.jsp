@@ -14,7 +14,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #eee;
+      color: rgb(34, 106, 118);
       }
       body {
       background: url("/uploads/media/default/0001/01/b5edc1bad4dc8c20291c8394527cb2c5b43ee13c.jpeg") no-repeat center;
@@ -79,7 +79,7 @@
       vertical-align: middle;
       }
       .checkbox a {
-      color: #26a9e0;
+      color: #b5e026;
       }
       .checkbox a:hover {
       color: #85d6de;
