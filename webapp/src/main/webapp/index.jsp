@@ -79,17 +79,17 @@
       vertical-align: middle;
       }
       .checkbox a {
-      color: #b5e026;
+      color: #e02645;
       }
       .checkbox a:hover {
-      color: #85d6de;
+      color: #85dea9;
       }
       .btn-item, button {
       padding: 10px 5px;
       margin-top: 20px;
       border-radius: 5px; 
       border: none;
-      color: rgb(69, 181, 58);
+      color: rgb(78, 58, 181);
       }
       .btn-item {
       display: inline-block;
